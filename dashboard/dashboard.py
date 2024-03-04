@@ -9,7 +9,7 @@ st.markdown('<div style="text-align: justify;">Welcome to Awan ML-15\'s Analysis
 
 import streamlit as st
 
-airdata_Gucheng_df=pd.read_csv('./main_data.csv')
+airdata_Gucheng_df=pd.read_csv('https://raw.githubusercontent.com/yaboidimsum/data-analysis-project/main/dashboard/main_data.csv')
 
 # Function to navigate to a specific section
 

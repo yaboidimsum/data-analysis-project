@@ -1,0 +1,2 @@
+Link to deployment:
+https://fp-data-analysis-awan-ml-15-dicoding.streamlit.app/
